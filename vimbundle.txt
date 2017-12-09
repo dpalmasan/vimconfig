@@ -1,0 +1,6 @@
+lightline.vim
+onedark.vim
+vim-airline
+vim-polyglot
+vim-sensible
+YouCompleteMe
